@@ -31,7 +31,8 @@ def gcd():
 ```
 
 ## Output:
-![Exp 2-a](https://github.com/Muthu-Kumaran-M/GCD-of-two-numbers/assets/144979439/5a0274e6-ea2c-428a-9d0b-51d3134d70fb)
+![Exp 2-a](https://github.com/Muthu-Kumaran-M/GCD-of-two-numbers/assets/144979439/102699a9-a4da-47c8-8721-c6ec3da93346)
+
 
 
 
